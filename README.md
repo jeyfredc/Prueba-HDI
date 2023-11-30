@@ -1,4 +1,15 @@
+
 # Prueba-HDI
+
+**Respuesta del punto No. 1 De la prueba **
+
+-- No tiene errores 
+
+**Respuesta del punto No. 2 **
+
+-- Se adjunta un archivo RaR para descomprimir, instalar dependencias con el comando `npm i` y lanzar el archivo con `ng serve -o` 
+
+**Respuesta del punto No. 3 **
 
 -- Crear Base de datos con el archivo script_prueba en una base de datos local.
 

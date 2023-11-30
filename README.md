@@ -24,7 +24,8 @@
         "AzureWebJobsStorage": "UseDevelopmentStorage=true",
         "FUNCTIONS_WORKER_RUNTIME": "dotnet",
         "FilesDirectory": "files",
-        "SqlServerConnection": "Server=tcp:sql-pyp-dt-prd-01.database.windows.net,1433;Initial Catalog=sqldb-pyp-dt-prd-01;Persist Security Info=False;User ID=john.pineros;Password=2hAkF8rQ;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;",
+        "SqlServerConnection": "Server=DESKTOP-9SH5FF8;database=db_prueba;trusted_connection=true;"
+
     }
 }
 
